@@ -1,2 +1,2 @@
 # fuji-xml
-MRW for Fuji
+Hosts the MRW for Fuji
