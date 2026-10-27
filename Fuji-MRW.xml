@@ -80772,7 +80772,7 @@
 	</attribute>
 	<attribute>
 		<id>MSS_MRW_IDLE_POWER_CONTROL_REQUESTED</id>
-		<default>PD_AND_STR_CLK_STOP</default>
+		<default>POWER_DOWN</default>
 	</attribute>
 	<attribute>
 		<id>MSS_MRW_IDLE_PSMODE_ENTER_STR_TIME</id>
